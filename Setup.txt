@@ -1,0 +1,15 @@
+
+pip install flask werkzeug==0.15.6 opencv-python==4.5.3.56 pillow matplotlib
+pip install jinja2==3.0.3
+pip install markupsafe==2.0.1
+comment line no. 5 and 8
+reples 4 no line by.. from supportFile import *
+support file line no import numpy...add.. as np
+Run Project
+localhost:5000
+admin
+admin
+measure heartbeats
+Place your face in given frame
+
+Fast Fouriour Transform (FFT) Algorithm
